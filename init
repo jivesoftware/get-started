@@ -1,2 +1,6 @@
 #!/bin/bash
-echo Commands to initialize your Nitrous.io Environment Coming Soon!
+
+echo Installing the Jive SDK for Node JS
+npm install jive-sdk -g
+
+jive-sdk
