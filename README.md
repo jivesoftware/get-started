@@ -1,6 +1,20 @@
 Getting Started w/Jive SDK & Nitrous.io
 ===========
 
+<!--
+##############################################################################
+# For those reading this in Nitrous.io, simply execute the following command:
+##############################################################################
+
+~/workspace/get-started-init
+
+and then begin your first tutorial:
+
+https://community.jivesoftware.com/docs/DOC-114053
+
+##############################################################################
+-->
+
 [![Hack jivesoftware/get-started on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-4b6757c3247e3c50314390ece34cdb11.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=jivesoftware%2Fget-started&file_to_open=README.md)
 
 1. [Click Here](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=jivesoftware%2Fget-started&file_to_open=README.md) to Setup Your **FREE** [Nitrous.io](https://www.nitrous.io) Environment
