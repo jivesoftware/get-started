@@ -6,7 +6,7 @@ Getting Started w/Jive SDK & Nitrous.io
 # For those reading this in Nitrous.io, simply execute the following command:
 ##############################################################################
 
-~/workspace/get-started-init
+~/workspace/get-started/init
 
 and then begin your first tutorial:
 
